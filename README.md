@@ -8,6 +8,8 @@
 
 <br clear="both" />
 
+---
+
 **Roles**
 
 <img align='left' alt='Business Analyst' src='https://img.shields.io/badge/Business%20Analyst-0052CC?style=for-the-badge&logo=atlassian&logoColor=white' />
